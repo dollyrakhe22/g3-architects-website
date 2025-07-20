@@ -30,11 +30,7 @@
   font-size: 3rem;
 }
 /*header styles*/
-/*main*/
-main{
-  max-width: 1440px;
-  margin: 0 auto;
-}
+
 
 /*navbar related styles*/
 .navbar{
@@ -96,6 +92,5 @@ main{
   .navbar, .nav-link{
     flex-direction: column;
   }
-  
   
 }

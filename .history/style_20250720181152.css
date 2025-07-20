@@ -30,11 +30,7 @@
   font-size: 3rem;
 }
 /*header styles*/
-/*main*/
-main{
-  max-width: 1440px;
-  margin: 0 auto;
-}
+
 
 /*navbar related styles*/
 .navbar{
@@ -49,7 +45,7 @@ main{
   font-size: 500;
 }
 .navbar,.banner {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   
 }

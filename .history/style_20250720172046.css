@@ -30,11 +30,7 @@
   font-size: 3rem;
 }
 /*header styles*/
-/*main*/
-main{
-  max-width: 1440px;
-  margin: 0 auto;
-}
+
 
 /*navbar related styles*/
 .navbar{
@@ -60,8 +56,7 @@ main{
   max-width: 800px;
   margin: 0 auto;
   text-align: center;
-  margin-bottom: 20px;
-  
+  margin-bottom: 50px;
 }
 .banner{
   padding: 50px;
@@ -87,15 +82,5 @@ main{
   font-weight: 600;
   border:none;
   border-radius: 8px;
-  margin-top: 20px;
-  margin-top: 20px;
-  
-}
-/*responsive media query*/
-@media screen and (max-width: 576px){
-  .navbar, .nav-link{
-    flex-direction: column;
-  }
-  
   
 }
