@@ -156,18 +156,12 @@ main> section{
   .navbar, .nav-link, .teams{
     flex-direction: column;
   }
-.team-img-container, .fact-container{
+.team-img-container, .fact-card{
   grid-template-columns: repeat(1, 1fr); 
   
 }
 .our-features{
   margin-left: 10px;
-}
-.fact-card{
-  margin-top: 20px;
-}
-.fact-container{
- justify-content: center;
 }
 
 }

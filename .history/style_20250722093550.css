@@ -164,10 +164,7 @@ main> section{
   margin-left: 10px;
 }
 .fact-card{
-  margin-top: 20px;
-}
-.fact-container{
- justify-content: center;
+  margin-top: 10px;
 }
 
 }
